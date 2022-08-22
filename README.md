@@ -27,3 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Patika.dev Account
+[Mert Uçman](https://app.patika.dev/manly)
